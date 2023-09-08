@@ -1,4 +1,4 @@
-# Pam_Trabalho_Copa
+# Aplicativo Copa do Mundo - 2022
 Desenvolvedores Leonardo Mazzuco e Rogério Rodrigues
 Nós decidimos desenvolver um app sobre a copa do mundo que é um tema bem atual, o nosso aplicativo terá o objetivo de levar informações sobre as edições da copa do mundo de forma prática e dinâmica, deixando os nossos usuários mais atualizados sobre as seleções, mascotes, hinos, estádios além de um jogo rápido para diverti-los.
 Quando abrimos o app temos uma tela de Splash;
